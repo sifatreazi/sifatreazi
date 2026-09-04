@@ -1,3 +1,15 @@
+title: "Sifat — Academic CV & Portfolio"
+description: "Research, teaching, and applied projects"
 theme: jekyll-theme-minimal
-title: Your Name
-description: My personal website
+
+# Navigation links
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "CV"
+    link: "/cv"
+  - name: "Projects"
+    link: "/projects"
+
+# Markdown settings
+markdown: kramdown
